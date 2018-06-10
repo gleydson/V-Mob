@@ -1,0 +1,67 @@
+.background-dialog {
+  background: rgba(0,0,0,.8);
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-dialog {
+  background: #fff;
+  max-width: 40%;
+  /* height: 40%; */
+  box-shadow: 0px 0px 8px 0px rgba(255,255,255,.8);
+  display: flex;
+  flex-direction: column;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.content-dialog * {
+  flex: 1;
+}
+
+.content-dialog input {
+  text-align: center;
+  /* min-height: 70%; */
+  font-size: 2em;
+  border: none;
+}
+
+.content-dialog {
+  flex: 1;
+}
+
+.dialog-buttons {
+  display: flex;
+}
+
+.dialog-buttons a{
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.dialog-cancel {
+  background-color: #e84c3d;
+  border-bottom-left-radius: 5px;
+}
+
+.dialog-checkIn {
+  background-color: #19bc9d;
+  border-bottom-right-radius: 5px;
+}
+
+.button-checkin, .button-checkout {
+  padding: 30px;
+  margin: 20px;
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+}

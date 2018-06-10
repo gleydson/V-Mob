@@ -1,0 +1,27 @@
+.time {
+  background: #008f83;  
+  text-align: center;
+  color: #ffffff;
+  padding: 1.5% 0px;
+  font-size: 1.8em;
+  height: 15vh;
+}
+
+.content {
+  height: 55vh;
+}
+
+h2 {
+  color: #008f83;
+}
+
+.footer {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #008f83;
+  color: white;
+  margin-top: 30px;
+}

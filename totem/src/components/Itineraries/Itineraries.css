@@ -1,0 +1,13 @@
+.itineraries {
+  text-align: center;
+  margin: 2.5% 0px;
+  display: flex;
+}
+
+.alert {
+  flex: 1;
+}
+
+.itineraries ul {
+  list-style: none;
+}
