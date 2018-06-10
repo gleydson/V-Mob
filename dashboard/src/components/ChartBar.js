@@ -10,7 +10,7 @@ class ChartBar extends Component {
                 labels: ["Valer", "Rodoviária Oficina", "Pier IV", "Canteiro", "Pelotização"],
                 datasets: [{
                     label: 'Número de passageios por paradas (Mês)',
-                    data: [12, 19, 3, 5, 8, 1],
+                    data: [1201, 590, 357, 910, 800],
                     backgroundColor: [
                         '#ebac12a2',
                         '#ebac12a2',
