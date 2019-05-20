@@ -10,7 +10,7 @@
     "react-dom": "^16.4.2",
     "react-firebase": "^2.2.8",
     "react-scripts": "1.1.4",
-    "serve": "^8.1.2"
+    "serve": "^11.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
