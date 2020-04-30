@@ -10,7 +10,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
     "react-scripts": "3.3.0",
-    "snyk": "^1.298.1"
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "start": "react-scripts start",
