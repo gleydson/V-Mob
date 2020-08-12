@@ -9,7 +9,7 @@
     "jspdf": "^1.4.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
-    "react-scripts": "3.3.0",
+    "react-scripts": "3.4.3",
     "snyk": "^1.298.1"
   },
   "scripts": {
