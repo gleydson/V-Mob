@@ -9,7 +9,7 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
     "react-firebase": "^2.2.8",
-    "react-scripts": "3.3.0",
+    "react-scripts": "3.4.3",
     "serve": "^10.1.2"
   },
   "scripts": {
