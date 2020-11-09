@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^1.2.0",
     "chart.js": "^2.7.2",
-    "firebase": "^5.0.4",
+    "firebase": "^8.0.1",
     "jspdf": "^1.4.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.2",
