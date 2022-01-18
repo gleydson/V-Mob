@@ -5,10 +5,10 @@
   "dependencies": {
     "@material-ui/core": "^1.2.0",
     "chart.js": "^2.7.2",
-    "firebase": "^5.0.4",
+    "firebase": "^7.22.0",
     "jspdf": "^1.4.1",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-scripts": "3.3.0",
     "snyk": "^1.298.1"
   },
